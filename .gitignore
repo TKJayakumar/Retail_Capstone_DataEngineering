@@ -1,0 +1,25 @@
+# Azure Configuration
+config.py
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Databricks
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment Variables
+.env
+
+# Operating System
+.DS_Store
+Thumbs.db

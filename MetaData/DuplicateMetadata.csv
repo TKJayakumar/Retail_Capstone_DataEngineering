@@ -1,0 +1,5 @@
+TableName,DuplicateColumns
+Products,ProductID
+Customers,CustomerID
+Orders,OrderID
+ExchangeRates,"BaseCurrency,TargetCurrency,RateDate"

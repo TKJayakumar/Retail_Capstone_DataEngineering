@@ -1,0 +1,3 @@
+TableName,ColumnName,LookupTable,LookupColumn
+Orders,CustomerID,Customers,CustomerID
+Orders,ProductID,Products,ProductID

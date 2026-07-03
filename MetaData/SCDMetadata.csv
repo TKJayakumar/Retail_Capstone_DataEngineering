@@ -1,0 +1,2 @@
+TableName,BusinessKey,TrackColumns,EffectiveDateColumn,ExpiryDateColumn,CurrentFlagColumn,SurrogateKey
+Customers,CustomerID,"FirstName,LastName,Email,Phone,City,State",EffectiveDate,ExpiryDate,IsCurrent,CustomerKey

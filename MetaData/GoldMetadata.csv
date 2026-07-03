@@ -1,0 +1,8 @@
+TableName,Source1,Source2,Transformation,TargetPath
+DimProducts,Products,,DIM_PRODUCT,/Volumes/dev/spark_db/datasets/RetailCapstone/RetailLake/Gold/DimProducts
+DimCustomers,SCD_Customers,,DIM_CUSTOMER,/Volumes/dev/spark_db/datasets/RetailCapstone/RetailLake/Gold/DimCustomers
+FactSales,Orders,ExchangeRates,FACT_SALES,/Volumes/dev/spark_db/datasets/RetailCapstone/RetailLake/Gold/FactSales
+CategorySales,FactSales,,CATEGORY_AGG,/Volumes/dev/spark_db/datasets/RetailCapstone/RetailLake/Gold/CategorySales
+StoreSales,FactSales,,STORE_AGG,/Volumes/dev/spark_db/datasets/RetailCapstone/RetailLake/Gold/StoreSales
+MonthlySales,FactSales,,MONTH_AGG,/Volumes/dev/spark_db/datasets/RetailCapstone/RetailLake/Gold/MonthlySales
+CustomerSales,FactSales,,CUSTOMER_AGG,/Volumes/dev/spark_db/datasets/RetailCapstone/RetailLake/Gold/CustomerSales

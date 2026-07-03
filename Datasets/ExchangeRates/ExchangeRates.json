@@ -1,0 +1,6002 @@
+[
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 68.976877,
+        "RateDate": "2025-08-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 23.477909,
+        "RateDate": "2025-08-16"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 12.565831,
+        "RateDate": "2025-01-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 48.990382,
+        "RateDate": "2025-10-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 29.907289,
+        "RateDate": "2025-11-30"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 14.430156,
+        "RateDate": "2025-10-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 28.005543,
+        "RateDate": "2025-06-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 5.916518,
+        "RateDate": "2025-01-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 40.384778,
+        "RateDate": "2025-09-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 61.032428,
+        "RateDate": "2025-04-11"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 32.776657,
+        "RateDate": "2025-04-14"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 66.156859,
+        "RateDate": "2025-12-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 81.01482,
+        "RateDate": "2025-08-28"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 58.721746,
+        "RateDate": "2025-10-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 15.835459,
+        "RateDate": "2025-08-03"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 47.365449,
+        "RateDate": "2025-08-21"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 66.009343,
+        "RateDate": "2025-01-02"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 23.087299,
+        "RateDate": "2025-08-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 19.902396,
+        "RateDate": "2025-06-19"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 34.78622,
+        "RateDate": "2025-04-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 3.336662,
+        "RateDate": "2025-02-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 27.959452,
+        "RateDate": "2025-02-28"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 4.649006,
+        "RateDate": "2025-04-10"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 19.194462,
+        "RateDate": "2025-01-16"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 84.168621,
+        "RateDate": "2025-03-31"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 80.59198,
+        "RateDate": "2025-03-31"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 19.020824,
+        "RateDate": "2025-05-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 86.556326,
+        "RateDate": "2025-04-01"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 36.308201,
+        "RateDate": "2025-01-11"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 88.962783,
+        "RateDate": "2025-02-26"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 23.194169,
+        "RateDate": "2025-06-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 89.439786,
+        "RateDate": "2025-07-10"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 83.507651,
+        "RateDate": "2025-11-16"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 14.148847,
+        "RateDate": "2025-02-03"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 18.613882,
+        "RateDate": "2025-03-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 30.546427,
+        "RateDate": "2025-07-13"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 87.535785,
+        "RateDate": "2025-08-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 81.244148,
+        "RateDate": "2025-11-12"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 31.465817,
+        "RateDate": "2025-05-31"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 82.984466,
+        "RateDate": "2025-01-28"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 20.272951,
+        "RateDate": "2025-09-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 75.249237,
+        "RateDate": "2025-02-11"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 16.32247,
+        "RateDate": "2025-11-11"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 47.616545,
+        "RateDate": "2025-07-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 30.912286,
+        "RateDate": "2025-08-26"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 68.128913,
+        "RateDate": "2025-07-11"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 25.857701,
+        "RateDate": "2025-09-11"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 20.080362,
+        "RateDate": "2025-07-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 82.069401,
+        "RateDate": "2025-04-14"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 29.416909,
+        "RateDate": "2025-07-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 88.904647,
+        "RateDate": "2025-07-13"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 52.527162,
+        "RateDate": "2025-07-11"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 28.382038,
+        "RateDate": "2025-03-10"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 22.251781,
+        "RateDate": "2025-09-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 48.908767,
+        "RateDate": "2025-01-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 43.133789,
+        "RateDate": "2025-99-99"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 35.229878,
+        "RateDate": "2025-08-10"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 26.30034,
+        "RateDate": "2025-09-12"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 42.239563,
+        "RateDate": "2025-01-13"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 34.434282,
+        "RateDate": "2025-05-16"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 80.12602,
+        "RateDate": "2025-02-12"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 74.765026,
+        "RateDate": "2025-09-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 11.706555,
+        "RateDate": "2025-04-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 52.099463,
+        "RateDate": "2025-07-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 64.297642,
+        "RateDate": "2025-06-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 70.922472,
+        "RateDate": "2025-05-09"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 18.51571,
+        "RateDate": "2025-12-16"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 94.849282,
+        "RateDate": "2025-11-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 1.306452,
+        "RateDate": "2025-10-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 78.208187,
+        "RateDate": "2025-06-03"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 78.165894,
+        "RateDate": "2025-07-26"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 45.104377,
+        "RateDate": "2025-12-02"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 82.286548,
+        "RateDate": "2025-09-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 68.855242,
+        "RateDate": "2025-04-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 22.586841,
+        "RateDate": "2025-04-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 68.777228,
+        "RateDate": "2025-10-28"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 75.335957,
+        "RateDate": "2025-08-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 41.020936,
+        "RateDate": "2025-06-10"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 20.305759,
+        "RateDate": "2025-12-24"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 35.909166,
+        "RateDate": "2025-08-19"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 29.376548,
+        "RateDate": "2025-10-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 77.082931,
+        "RateDate": "2025-01-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 21.808866,
+        "RateDate": "2025-07-01"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 72.588529,
+        "RateDate": "2025-08-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 31.314514,
+        "RateDate": "2025-12-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 87.642626,
+        "RateDate": "2025-01-12"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 54.194039,
+        "RateDate": "2025-03-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 93.126265,
+        "RateDate": "2025-11-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 6.520524,
+        "RateDate": "2025-04-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 45.366488,
+        "RateDate": "2025-07-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 60.885812,
+        "RateDate": "2025-06-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 16.699536,
+        "RateDate": "2025-06-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 3.52959,
+        "RateDate": "2025-12-12"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 3.036239,
+        "RateDate": "2025-12-19"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 86.622132,
+        "RateDate": "2025-04-12"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 19.956822,
+        "RateDate": "2025-07-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 43.465718,
+        "RateDate": "2025-05-30"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 16.73753,
+        "RateDate": "2025-07-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 15.339851,
+        "RateDate": "2025-07-30"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 51.19481,
+        "RateDate": "2025-02-26"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 37.259829,
+        "RateDate": "2025-09-02"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 82.757437,
+        "RateDate": "2025-04-16"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 77.791182,
+        "RateDate": "2025-06-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 15.504828,
+        "RateDate": "2025-12-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 56.01799,
+        "RateDate": "2025-10-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 26.529172,
+        "RateDate": "2025-09-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 42.621634,
+        "RateDate": "2025-99-99"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 50.19344,
+        "RateDate": "2025-07-24"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 43.989331,
+        "RateDate": "2025-10-19"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 70.173972,
+        "RateDate": "2025-10-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 33.270884,
+        "RateDate": "2025-05-28"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 37.45804,
+        "RateDate": "2025-12-31"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 24.04324,
+        "RateDate": "2025-03-31"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 43.76476,
+        "RateDate": "2025-11-13"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 66.510332,
+        "RateDate": "2025-12-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 66.52193,
+        "RateDate": "2025-02-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 84.183702,
+        "RateDate": "2025-01-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 83.901526,
+        "RateDate": "2025-03-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 63.499081,
+        "RateDate": "2025-10-03"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 86.375597,
+        "RateDate": "2025-02-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 94.557398,
+        "RateDate": "2025-07-30"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 48.165313,
+        "RateDate": "2025-02-09"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 43.11345,
+        "RateDate": "2025-06-16"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 48.323102,
+        "RateDate": "2025-05-10"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 7.416974,
+        "RateDate": "2025-08-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 36.519201,
+        "RateDate": "2025-12-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 37.985724,
+        "RateDate": "2025-07-24"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 11.337517,
+        "RateDate": "2025-01-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 63.842932,
+        "RateDate": "2025-03-11"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 44.098236,
+        "RateDate": "2025-08-26"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 67.933455,
+        "RateDate": "2025-02-12"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 44.989441,
+        "RateDate": "2025-08-13"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 16.62067,
+        "RateDate": "2025-05-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 17.248859,
+        "RateDate": "2025-01-10"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 16.418844,
+        "RateDate": "2025-03-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 64.512707,
+        "RateDate": "2025-12-10"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 34.339221,
+        "RateDate": "2025-03-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 84.858988,
+        "RateDate": "2025-04-21"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 42.274495,
+        "RateDate": "2025-09-30"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 37.413438,
+        "RateDate": "2025-01-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 5.453242,
+        "RateDate": "2025-06-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 73.492716,
+        "RateDate": "2025-01-03"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 35.903924,
+        "RateDate": "2025-04-14"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 9.136018,
+        "RateDate": "2025-05-03"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 93.987964,
+        "RateDate": "2025-08-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 64.756175,
+        "RateDate": "2025-06-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 91.101427,
+        "RateDate": "2025-02-02"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 68.919086,
+        "RateDate": "2025-02-19"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 48.93126,
+        "RateDate": "2025-01-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 53.614114,
+        "RateDate": "2025-06-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 88.793936,
+        "RateDate": "2025-04-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 11.915974,
+        "RateDate": "2025-07-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 34.196463,
+        "RateDate": "2025-04-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 38.502182,
+        "RateDate": "2025-03-30"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 37.278139,
+        "RateDate": "2025-06-11"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 6.738539,
+        "RateDate": "2025-08-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 4.65223,
+        "RateDate": "2025-05-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 28.994986,
+        "RateDate": "2025-04-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 93.403186,
+        "RateDate": "2025-11-03"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 24.308344,
+        "RateDate": "2025-02-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 93.243802,
+        "RateDate": "2025-02-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 64.561599,
+        "RateDate": "2025-12-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 31.878399,
+        "RateDate": "2025-12-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 92.923035,
+        "RateDate": "2025-11-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 6.880024,
+        "RateDate": "2025-12-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 36.634097,
+        "RateDate": "2025-01-10"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 48.073194,
+        "RateDate": "2025-11-24"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 22.481258,
+        "RateDate": "2025-12-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 29.686195,
+        "RateDate": "2025-11-12"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 59.067909,
+        "RateDate": "2025-08-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 35.892483,
+        "RateDate": "2025-01-31"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 14.83287,
+        "RateDate": "2025-06-01"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 22.997045,
+        "RateDate": "2025-04-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 70.359658,
+        "RateDate": "2025-11-03"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 26.782949,
+        "RateDate": "2025-06-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 49.722485,
+        "RateDate": "2025-11-26"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 71.427061,
+        "RateDate": "2025-08-01"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 32.887835,
+        "RateDate": "2025-04-28"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 86.176729,
+        "RateDate": "2025-04-16"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 76.237196,
+        "RateDate": "2025-12-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 57.961972,
+        "RateDate": "2025-12-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 17.845047,
+        "RateDate": "2025-07-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 6.606295,
+        "RateDate": "2025-11-19"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 90.620982,
+        "RateDate": "2025-09-09"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 89.166943,
+        "RateDate": "2025-01-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 16.912365,
+        "RateDate": "2025-03-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 22.831307,
+        "RateDate": "2025-10-09"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 69.01147,
+        "RateDate": "2025-02-10"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 68.698171,
+        "RateDate": "2025-06-09"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 17.173155,
+        "RateDate": "2025-05-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 27.465848,
+        "RateDate": "2025-05-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 26.190844,
+        "RateDate": "2025-08-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 90.370747,
+        "RateDate": "2025-09-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 36.194303,
+        "RateDate": "2025-07-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 40.444891,
+        "RateDate": "2025-08-30"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 72.350662,
+        "RateDate": "2025-11-09"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 72.502319,
+        "RateDate": "2025-09-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 72.212111,
+        "RateDate": "2025-08-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 52.744527,
+        "RateDate": "2025-06-03"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 36.452547,
+        "RateDate": "2025-03-31"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 27.264833,
+        "RateDate": "2025-06-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 7.298297,
+        "RateDate": "2025-10-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 18.995138,
+        "RateDate": "2025-03-11"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 1.712839,
+        "RateDate": "2025-04-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 46.942376,
+        "RateDate": "2025-09-14"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 92.211554,
+        "RateDate": "2025-08-01"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 46.76258,
+        "RateDate": "2025-07-11"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 39.130427,
+        "RateDate": "2025-11-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 36.866058,
+        "RateDate": "2025-01-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 18.854565,
+        "RateDate": "2025-10-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 73.385051,
+        "RateDate": "2025-08-12"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 60.505586,
+        "RateDate": "2025-06-28"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 62.010649,
+        "RateDate": "2025-07-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 23.402346,
+        "RateDate": "2025-08-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 60.125031,
+        "RateDate": "2025-01-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 66.411049,
+        "RateDate": "2025-12-13"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 25.195751,
+        "RateDate": "2025-11-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 24.530219,
+        "RateDate": "2025-08-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 1.665883,
+        "RateDate": "2025-11-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 38.079524,
+        "RateDate": "2025-02-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 49.501751,
+        "RateDate": "2025-10-28"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 16.170331,
+        "RateDate": "2025-04-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 65.878578,
+        "RateDate": "2025-08-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 55.884538,
+        "RateDate": "2025-09-14"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 10.8264,
+        "RateDate": "2025-07-30"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 77.444548,
+        "RateDate": "2025-10-21"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 88.386594,
+        "RateDate": "2025-05-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 1.106719,
+        "RateDate": "2025-07-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 0.649176,
+        "RateDate": "2025-03-28"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 50.108908,
+        "RateDate": "2025-02-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 69.772491,
+        "RateDate": "2025-12-02"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 35.904556,
+        "RateDate": "2025-03-29"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 19.21294,
+        "RateDate": "2025-12-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 43.087444,
+        "RateDate": "2025-04-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 19.48891,
+        "RateDate": "2025-04-19"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 25.008756,
+        "RateDate": "2025-04-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 59.736132,
+        "RateDate": "2025-07-29"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 82.560208,
+        "RateDate": "2025-11-16"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 28.200368,
+        "RateDate": "2025-03-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 26.654028,
+        "RateDate": "2025-07-13"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 55.843585,
+        "RateDate": "2025-06-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 64.080034,
+        "RateDate": "2025-09-02"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 6.269836,
+        "RateDate": "2025-02-21"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 9.651555,
+        "RateDate": "2025-01-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 36.000418,
+        "RateDate": "2025-09-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 88.586132,
+        "RateDate": "2025-09-24"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 57.613112,
+        "RateDate": "2025-08-31"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 64.93577,
+        "RateDate": "2025-06-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 77.69206,
+        "RateDate": "2025-06-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 36.262173,
+        "RateDate": "2025-07-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": -5,
+        "RateDate": "2025-01-30"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 43.67887,
+        "RateDate": "2025-02-21"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 69.033308,
+        "RateDate": "2025-12-24"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 57.380417,
+        "RateDate": "2025-03-13"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 90.375353,
+        "RateDate": "2025-09-29"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 43.206258,
+        "RateDate": "2025-05-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 49.159373,
+        "RateDate": "2025-12-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 0.795701,
+        "RateDate": "2025-12-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 2.071564,
+        "RateDate": "2025-11-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 92.126971,
+        "RateDate": "2025-07-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 22.571293,
+        "RateDate": "2025-06-16"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 70.354838,
+        "RateDate": "2025-09-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 40.938089,
+        "RateDate": "2025-02-11"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 69.889247,
+        "RateDate": "2025-09-01"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 67.778516,
+        "RateDate": "2025-05-31"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 12.582898,
+        "RateDate": "2025-09-24"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 79.157463,
+        "RateDate": "2025-02-14"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 16.380994,
+        "RateDate": "2025-10-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 46.064928,
+        "RateDate": "2025-08-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 23.497142,
+        "RateDate": "2025-10-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 10.466884,
+        "RateDate": "2025-03-29"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 88.290829,
+        "RateDate": "2025-01-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 72.916184,
+        "RateDate": "2025-06-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "XYZ",
+        "ExchangeRate": 63.430638,
+        "RateDate": "2025-04-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 63.387517,
+        "RateDate": "2025-12-10"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 9.046746,
+        "RateDate": "2025-10-01"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 82.898387,
+        "RateDate": "2025-12-21"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 61.356728,
+        "RateDate": "2025-10-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 62.295407,
+        "RateDate": "2025-07-13"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 76.898287,
+        "RateDate": "2025-10-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 11.432702,
+        "RateDate": "2025-04-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 8.923676,
+        "RateDate": "2025-02-14"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 70.866378,
+        "RateDate": "2025-10-31"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 12.540951,
+        "RateDate": "2025-03-01"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 55.018642,
+        "RateDate": "2025-06-10"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 6.348127,
+        "RateDate": "2025-01-01"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 80.552707,
+        "RateDate": "2025-10-02"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 73.386045,
+        "RateDate": "2025-08-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 49.616506,
+        "RateDate": "2025-12-14"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 10.57237,
+        "RateDate": "2025-11-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 30.355028,
+        "RateDate": "2025-01-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 47.734187,
+        "RateDate": "2025-06-01"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 57.338482,
+        "RateDate": "2025-08-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 57.094189,
+        "RateDate": "2025-03-16"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 26.341265,
+        "RateDate": "2025-06-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 60.136783,
+        "RateDate": "2025-12-28"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 28.046287,
+        "RateDate": "2025-04-21"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 93.217994,
+        "RateDate": "2025-07-12"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 78.735104,
+        "RateDate": "2025-06-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": -5,
+        "RateDate": "2025-04-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 81.465596,
+        "RateDate": "2025-01-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 93.524812,
+        "RateDate": "2025-07-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 94.155474,
+        "RateDate": "2025-12-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 32.385259,
+        "RateDate": "2025-10-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 94.084701,
+        "RateDate": "2025-12-14"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 7.287294,
+        "RateDate": "2025-07-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 66.307562,
+        "RateDate": "2025-05-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 9.696699,
+        "RateDate": "2025-04-10"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 80.807019,
+        "RateDate": "2025-06-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 43.736821,
+        "RateDate": "2025-12-30"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 42.258013,
+        "RateDate": "2025-03-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 85.287109,
+        "RateDate": "2025-09-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 76.511873,
+        "RateDate": "2025-04-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 34.730336,
+        "RateDate": "2025-04-11"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 64.601033,
+        "RateDate": "2025-10-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 90.312626,
+        "RateDate": "2025-03-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 88.005614,
+        "RateDate": "2025-08-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 92.558003,
+        "RateDate": "2025-02-19"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 11.589277,
+        "RateDate": "2025-04-02"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 56.575581,
+        "RateDate": "2025-09-21"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 23.652595,
+        "RateDate": "2025-03-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 37.982933,
+        "RateDate": "2025-03-02"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 62.189313,
+        "RateDate": "2025-06-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 73.995562,
+        "RateDate": "2025-07-12"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 26.507916,
+        "RateDate": "2025-11-29"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 35.212029,
+        "RateDate": "2025-12-01"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "XYZ",
+        "ExchangeRate": 8.309196,
+        "RateDate": "2025-03-03"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 2.676029,
+        "RateDate": "2025-09-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 26.366994,
+        "RateDate": "2025-10-21"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 36.784208,
+        "RateDate": "2025-02-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 28.695336,
+        "RateDate": "2025-11-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 31.234138,
+        "RateDate": "2025-03-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 38.803734,
+        "RateDate": "2025-10-03"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 37.713773,
+        "RateDate": "2025-12-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 6.541542,
+        "RateDate": "2025-10-02"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 71.706526,
+        "RateDate": "2025-10-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 17.572764,
+        "RateDate": "2025-04-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 1.003118,
+        "RateDate": "2025-11-03"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 12.127781,
+        "RateDate": "2025-08-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 62.174527,
+        "RateDate": "2025-03-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 80.962035,
+        "RateDate": "2025-02-14"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 93.103237,
+        "RateDate": "2025-01-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 34.856386,
+        "RateDate": "2025-09-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 40.47835,
+        "RateDate": "2025-10-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 23.967855,
+        "RateDate": "2025-12-03"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 62.790391,
+        "RateDate": "2025-01-24"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 55.033254,
+        "RateDate": "2025-08-16"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 49.891962,
+        "RateDate": "2025-12-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 65.509414,
+        "RateDate": "2025-06-30"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 22.905984,
+        "RateDate": "2025-12-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 28.822522,
+        "RateDate": "2025-04-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 57.402645,
+        "RateDate": "2025-04-21"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 26.713895,
+        "RateDate": "2025-04-21"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 7.526988,
+        "RateDate": "2025-11-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 36.578429,
+        "RateDate": "2025-99-99"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 43.598402,
+        "RateDate": "2025-03-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 89.348837,
+        "RateDate": "2025-05-11"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 7.167735,
+        "RateDate": "2025-03-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 68.015049,
+        "RateDate": "2025-05-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 40.160372,
+        "RateDate": "2025-10-16"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 94.28643,
+        "RateDate": "2025-03-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 2.948482,
+        "RateDate": "2025-08-11"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 7.826074,
+        "RateDate": "2025-11-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 65.136039,
+        "RateDate": "2025-03-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 31.624285,
+        "RateDate": "2025-07-28"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 86.423689,
+        "RateDate": "2025-02-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 82.606833,
+        "RateDate": "2025-05-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 1.432085,
+        "RateDate": "2025-04-26"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 36.280757,
+        "RateDate": "2025-07-13"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 17.106615,
+        "RateDate": "2025-02-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 9.528583,
+        "RateDate": "2025-06-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 52.620741,
+        "RateDate": "2025-06-28"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 85.225888,
+        "RateDate": "2025-11-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 89.945224,
+        "RateDate": "2025-03-29"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 33.118838,
+        "RateDate": "2025-07-19"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 45.563447,
+        "RateDate": "2025-12-14"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 1.397511,
+        "RateDate": "2025-03-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 62.639697,
+        "RateDate": "2025-09-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 54.134493,
+        "RateDate": "2025-03-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 87.292735,
+        "RateDate": "2025-05-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 67.358978,
+        "RateDate": "2025-11-24"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 67.291349,
+        "RateDate": "2025-05-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 93.700273,
+        "RateDate": "2025-04-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 26.565271,
+        "RateDate": "2025-08-28"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 29.340212,
+        "RateDate": "2025-08-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 38.915647,
+        "RateDate": "2025-02-14"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 60.476946,
+        "RateDate": "2025-06-10"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 89.789927,
+        "RateDate": "2025-02-09"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 8.493294,
+        "RateDate": "2025-03-26"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 76.888784,
+        "RateDate": "2025-05-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 64.479624,
+        "RateDate": "2025-01-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 47.542592,
+        "RateDate": "2025-03-11"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 38.817052,
+        "RateDate": "2025-12-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 86.578765,
+        "RateDate": "2025-11-12"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 66.894917,
+        "RateDate": "2025-01-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 94.453974,
+        "RateDate": "2025-06-26"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 57.8968,
+        "RateDate": "2025-12-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 17.019941,
+        "RateDate": "2025-03-28"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 49.043184,
+        "RateDate": "2025-07-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 47.325493,
+        "RateDate": "2025-01-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 92.139334,
+        "RateDate": "2025-03-29"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 79.098145,
+        "RateDate": "2025-06-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 28.77232,
+        "RateDate": "2025-03-02"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 20.634732,
+        "RateDate": "2025-05-31"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 21.050272,
+        "RateDate": "2025-11-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 88.896659,
+        "RateDate": "2025-06-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 5.933441,
+        "RateDate": "2025-11-13"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 31.548145,
+        "RateDate": "2025-01-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 0.987092,
+        "RateDate": "2025-07-01"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 34.003305,
+        "RateDate": "2025-04-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 46.998358,
+        "RateDate": "2025-02-21"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 39.31295,
+        "RateDate": "2025-02-13"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 15.207073,
+        "RateDate": "2025-09-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 21.866,
+        "RateDate": "2025-12-03"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 28.782428,
+        "RateDate": "2025-07-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 51.192388,
+        "RateDate": "2025-08-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 93.995394,
+        "RateDate": "2025-05-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 15.793341,
+        "RateDate": "2025-12-03"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 1.049066,
+        "RateDate": "2025-07-01"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 10.957903,
+        "RateDate": "2025-12-30"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": null,
+        "ExchangeRate": 13.132791,
+        "RateDate": "2025-05-26"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 85.644293,
+        "RateDate": "2025-08-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 90.121517,
+        "RateDate": "2025-03-24"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 11.725873,
+        "RateDate": "2025-12-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 76.082998,
+        "RateDate": "2025-09-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 71.477996,
+        "RateDate": "2025-03-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 12.91897,
+        "RateDate": "2025-07-24"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 12.418678,
+        "RateDate": "2025-02-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 73.017878,
+        "RateDate": "2025-06-26"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 64.600325,
+        "RateDate": "2025-05-02"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 92.773441,
+        "RateDate": "2025-06-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 45.87824,
+        "RateDate": "2025-01-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 8.307108,
+        "RateDate": "2025-05-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 58.864444,
+        "RateDate": "2025-08-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 24.074611,
+        "RateDate": "2025-09-19"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 94.457292,
+        "RateDate": "2025-02-28"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 19.249977,
+        "RateDate": "2025-05-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 66.758198,
+        "RateDate": "2025-12-28"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 18.32922,
+        "RateDate": "2025-09-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 22.176806,
+        "RateDate": "2025-10-30"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 4.125628,
+        "RateDate": "2025-03-09"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 40.785631,
+        "RateDate": "2025-04-09"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 9.093398,
+        "RateDate": "2025-11-12"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 38.989584,
+        "RateDate": "2025-01-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 21.45776,
+        "RateDate": "2025-06-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 6.297549,
+        "RateDate": "2025-08-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 29.255404,
+        "RateDate": "2025-08-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 27.012536,
+        "RateDate": "2025-05-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 23.838536,
+        "RateDate": "2025-06-29"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 4.364023,
+        "RateDate": "2025-01-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 20.531879,
+        "RateDate": "2025-01-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 86.351547,
+        "RateDate": "2025-08-30"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 17.96738,
+        "RateDate": "2025-02-21"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 32.089663,
+        "RateDate": "2025-09-09"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 63.715543,
+        "RateDate": "2025-02-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 31.799509,
+        "RateDate": "2025-12-16"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 23.014835,
+        "RateDate": "2025-07-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 55.718922,
+        "RateDate": "2025-05-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 12.830871,
+        "RateDate": "2025-02-14"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 4.378179,
+        "RateDate": "2025-11-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 18.731649,
+        "RateDate": "2025-12-02"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 7.576122,
+        "RateDate": "2025-08-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 28.989521,
+        "RateDate": "2025-10-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 50.921189,
+        "RateDate": "2025-08-31"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 12.580119,
+        "RateDate": "2025-03-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 84.754939,
+        "RateDate": "2025-08-03"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 85.069281,
+        "RateDate": "2025-10-14"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 86.575247,
+        "RateDate": "2025-08-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 40.095893,
+        "RateDate": "2025-02-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 16.27537,
+        "RateDate": "2025-09-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 27.872526,
+        "RateDate": "2025-05-21"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 75.569891,
+        "RateDate": "2025-10-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 70.497586,
+        "RateDate": "2025-12-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 65.203609,
+        "RateDate": "2025-07-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 16.141472,
+        "RateDate": "2025-09-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 53.656117,
+        "RateDate": "2025-09-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 57.882137,
+        "RateDate": "2025-07-19"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 0.840252,
+        "RateDate": "2025-04-16"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 56.454655,
+        "RateDate": "2025-10-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 48.110779,
+        "RateDate": "2025-01-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 29.172261,
+        "RateDate": "2025-09-26"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 67.43007,
+        "RateDate": "2025-04-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 16.66981,
+        "RateDate": "2025-10-10"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 28.079191,
+        "RateDate": "2025-01-24"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 89.523347,
+        "RateDate": "2025-11-24"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 26.056094,
+        "RateDate": "2025-05-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 94.011177,
+        "RateDate": "2025-01-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 0.632296,
+        "RateDate": "2025-04-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 31.171097,
+        "RateDate": "2025-06-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 68.736521,
+        "RateDate": "2025-12-28"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 31.178021,
+        "RateDate": "2025-07-29"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 78.361554,
+        "RateDate": "2025-01-30"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 17.20148,
+        "RateDate": "2025-04-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 68.785907,
+        "RateDate": "2025-01-09"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 89.864521,
+        "RateDate": "2025-12-19"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 77.692044,
+        "RateDate": "2025-05-12"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 25.900986,
+        "RateDate": "2025-04-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": null,
+        "ExchangeRate": 15.20812,
+        "RateDate": "2025-10-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 35.336481,
+        "RateDate": "2025-04-29"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 47.368331,
+        "RateDate": "2025-09-03"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 77.57401,
+        "RateDate": "2025-08-24"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 54.33268,
+        "RateDate": "2025-04-01"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 2.48897,
+        "RateDate": "2025-04-03"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 77.753674,
+        "RateDate": "2025-03-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 7.063414,
+        "RateDate": "2025-12-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 23.676487,
+        "RateDate": "2025-02-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 9.972094,
+        "RateDate": "2025-11-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 69.179257,
+        "RateDate": "2025-09-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 36.2092,
+        "RateDate": "2025-01-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 78.610132,
+        "RateDate": "2025-01-11"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 12.99092,
+        "RateDate": "2025-11-26"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 13.979065,
+        "RateDate": "2025-02-12"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 75.381841,
+        "RateDate": "2025-11-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 51.753981,
+        "RateDate": "2025-01-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 19.619395,
+        "RateDate": "2025-06-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 77.561435,
+        "RateDate": "2025-99-99"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 45.756842,
+        "RateDate": "2025-06-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 51.863248,
+        "RateDate": "2025-05-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 2.504147,
+        "RateDate": "2025-05-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 51.968678,
+        "RateDate": "2025-01-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 13.90341,
+        "RateDate": "2025-02-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 21.920801,
+        "RateDate": "2025-04-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 33.887787,
+        "RateDate": "2025-07-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 87.599792,
+        "RateDate": "2025-05-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 65.399414,
+        "RateDate": "2025-12-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 16.523331,
+        "RateDate": "2025-02-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 10.114076,
+        "RateDate": "2025-02-26"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 7.709399,
+        "RateDate": "2025-05-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 34.566637,
+        "RateDate": "2025-06-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 57.625853,
+        "RateDate": "2025-02-13"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 50.630421,
+        "RateDate": "2025-04-02"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 64.706448,
+        "RateDate": "2025-11-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 59.539657,
+        "RateDate": "2025-03-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 83.225505,
+        "RateDate": "2025-05-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 63.033647,
+        "RateDate": "2025-05-19"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 75.046904,
+        "RateDate": "2025-05-16"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 30.764192,
+        "RateDate": "2025-03-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 68.666957,
+        "RateDate": "2025-07-19"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 11.194001,
+        "RateDate": "2025-09-02"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": -5,
+        "RateDate": "2025-08-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 17.686936,
+        "RateDate": "2025-06-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 30.675341,
+        "RateDate": "2025-07-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 66.028269,
+        "RateDate": "2025-08-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 13.561911,
+        "RateDate": "2025-07-31"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 36.711002,
+        "RateDate": "2025-12-01"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 51.411614,
+        "RateDate": "2025-10-09"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 36.847275,
+        "RateDate": "2025-09-10"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 50.296392,
+        "RateDate": "2025-10-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 66.942318,
+        "RateDate": "2025-12-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 0.770847,
+        "RateDate": "2025-05-01"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 53.266387,
+        "RateDate": "2025-01-09"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 6.130063,
+        "RateDate": "2025-03-10"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 80.707017,
+        "RateDate": "2025-06-28"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 44.006702,
+        "RateDate": "2025-03-13"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "XYZ",
+        "ExchangeRate": 23.416005,
+        "RateDate": "2025-10-10"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 71.091062,
+        "RateDate": "2025-04-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 36.170044,
+        "RateDate": "2025-03-02"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 35.62416,
+        "RateDate": "2025-01-14"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 63.129622,
+        "RateDate": "2025-12-26"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 79.637815,
+        "RateDate": "2025-02-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 14.38079,
+        "RateDate": "2025-03-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 23.656828,
+        "RateDate": "2025-03-14"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 14.648278,
+        "RateDate": "2025-01-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 70.766225,
+        "RateDate": "2025-04-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 44.932435,
+        "RateDate": "2025-09-28"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 74.342008,
+        "RateDate": "2025-06-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 27.599677,
+        "RateDate": "2025-12-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 83.76935,
+        "RateDate": "2025-03-21"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 48.061417,
+        "RateDate": "2025-01-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 79.188269,
+        "RateDate": "2025-01-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 52.867735,
+        "RateDate": "2025-12-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 67.533841,
+        "RateDate": "2025-05-13"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 26.187709,
+        "RateDate": "2025-08-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 92.914034,
+        "RateDate": "2025-02-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 38.338029,
+        "RateDate": "2025-03-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 37.571496,
+        "RateDate": "2025-01-29"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 77.66481,
+        "RateDate": "2025-10-14"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 30.096423,
+        "RateDate": "2025-08-28"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 78.675473,
+        "RateDate": "2025-11-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 76.41556,
+        "RateDate": "2025-03-26"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 18.902041,
+        "RateDate": "2025-11-28"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 7.85291,
+        "RateDate": "2025-02-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 3.150617,
+        "RateDate": "2025-11-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 51.678168,
+        "RateDate": "2025-05-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 56.926966,
+        "RateDate": "2025-02-03"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 52.634835,
+        "RateDate": "2025-06-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 23.211672,
+        "RateDate": "2025-11-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 53.773366,
+        "RateDate": "2025-02-13"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 5.040621,
+        "RateDate": "2025-09-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 1.30124,
+        "RateDate": "2025-02-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 91.100838,
+        "RateDate": "2025-07-02"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 30.217646,
+        "RateDate": "2025-09-14"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 92.528895,
+        "RateDate": "2025-07-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 31.809569,
+        "RateDate": "2025-12-26"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 47.955738,
+        "RateDate": "2025-09-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 55.988086,
+        "RateDate": "2025-03-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 55.91085,
+        "RateDate": "2025-07-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 15.735574,
+        "RateDate": "2025-01-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 7.942145,
+        "RateDate": "2025-12-16"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 90.541329,
+        "RateDate": "2025-11-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 76.806485,
+        "RateDate": "2025-04-29"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 73.15403,
+        "RateDate": "2025-12-01"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 42.78688,
+        "RateDate": "2025-03-24"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 27.98453,
+        "RateDate": "2025-03-09"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 4.281219,
+        "RateDate": "2025-11-16"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 23.095954,
+        "RateDate": "2025-12-31"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 91.032479,
+        "RateDate": "2025-11-09"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 9.704871,
+        "RateDate": "2025-10-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 72.916986,
+        "RateDate": "2025-01-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 47.647209,
+        "RateDate": "2025-06-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 16.538317,
+        "RateDate": "2025-08-21"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 6.941294,
+        "RateDate": "2025-06-01"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 33.893321,
+        "RateDate": "2025-10-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 67.656901,
+        "RateDate": "2025-02-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 93.690543,
+        "RateDate": "2025-08-24"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 61.952602,
+        "RateDate": "2025-05-12"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 92.323821,
+        "RateDate": "2025-03-13"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 34.848114,
+        "RateDate": "2025-09-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 39.15364,
+        "RateDate": "2025-05-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 42.158216,
+        "RateDate": "2025-11-14"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 35.813053,
+        "RateDate": "2025-09-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 48.31156,
+        "RateDate": "2025-12-16"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 59.147997,
+        "RateDate": "2025-05-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 70.528522,
+        "RateDate": "2025-11-26"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 15.106131,
+        "RateDate": "2025-05-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 36.01515,
+        "RateDate": "2025-02-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 81.186859,
+        "RateDate": "2025-10-19"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 83.108015,
+        "RateDate": "2025-04-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 33.474637,
+        "RateDate": "2025-12-09"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 10.81175,
+        "RateDate": "2025-08-28"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 87.200003,
+        "RateDate": "2025-04-03"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 19.350009,
+        "RateDate": "2025-07-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 30.483419,
+        "RateDate": "2025-06-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 20.594025,
+        "RateDate": "2025-11-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 26.806443,
+        "RateDate": "2025-09-01"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 90.136433,
+        "RateDate": "2025-01-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": null,
+        "ExchangeRate": 30.757636,
+        "RateDate": "2025-03-16"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 6.396824,
+        "RateDate": "2025-01-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 92.973998,
+        "RateDate": "2025-07-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 20.486078,
+        "RateDate": "2025-04-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 26.000646,
+        "RateDate": "2025-01-12"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 8.399376,
+        "RateDate": "2025-11-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 38.778971,
+        "RateDate": "2025-02-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 82.836823,
+        "RateDate": "2025-06-02"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 63.781396,
+        "RateDate": "2025-09-26"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 78.986889,
+        "RateDate": "2025-05-13"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 32.820809,
+        "RateDate": "2025-02-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 19.268202,
+        "RateDate": "2025-06-02"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 45.434695,
+        "RateDate": "2025-08-03"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 91.748239,
+        "RateDate": "2025-12-19"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 86.740494,
+        "RateDate": "2025-08-12"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 78.274983,
+        "RateDate": "2025-10-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 7.852923,
+        "RateDate": "2025-10-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 31.092728,
+        "RateDate": "2025-12-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 14.722843,
+        "RateDate": "2025-06-12"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 47.697616,
+        "RateDate": "2025-08-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 75.345589,
+        "RateDate": "2025-06-12"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 25.334855,
+        "RateDate": "2025-12-12"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 89.644094,
+        "RateDate": "2025-01-02"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 60.877599,
+        "RateDate": "2025-03-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 3.947924,
+        "RateDate": "2025-10-24"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 66.314155,
+        "RateDate": "2025-04-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 20.924973,
+        "RateDate": "2025-03-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 92.329856,
+        "RateDate": "2025-04-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 35.489231,
+        "RateDate": "2025-10-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 29.033753,
+        "RateDate": "2025-07-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 66.58547,
+        "RateDate": "2025-06-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 39.628077,
+        "RateDate": "2025-11-29"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 78.763564,
+        "RateDate": "2025-06-30"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": -5,
+        "RateDate": "2025-08-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 40.982252,
+        "RateDate": "2025-04-01"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 51.791092,
+        "RateDate": "2025-04-01"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 80.361157,
+        "RateDate": "2025-07-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 60.423134,
+        "RateDate": "2025-12-19"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 94.561824,
+        "RateDate": "2025-12-26"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 61.889523,
+        "RateDate": "2025-02-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 10.297316,
+        "RateDate": "2025-11-12"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 60.368127,
+        "RateDate": "2025-11-16"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 63.598608,
+        "RateDate": "2025-09-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 21.562101,
+        "RateDate": "2025-08-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 11.320354,
+        "RateDate": "2025-08-21"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 33.632993,
+        "RateDate": "2025-08-29"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 86.305392,
+        "RateDate": "2025-08-26"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 1.218685,
+        "RateDate": "2025-11-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 48.464497,
+        "RateDate": "2025-07-11"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 29.548987,
+        "RateDate": "2025-05-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 0.892889,
+        "RateDate": "2025-08-01"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 1.967591,
+        "RateDate": "2025-08-01"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 79.95273,
+        "RateDate": "2025-03-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 32.165999,
+        "RateDate": "2025-09-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 23.35304,
+        "RateDate": "2025-10-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 58.737318,
+        "RateDate": "2025-07-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 76.225841,
+        "RateDate": "2025-07-21"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 12.678259,
+        "RateDate": "2025-10-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 92.860107,
+        "RateDate": "2025-11-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 85.944195,
+        "RateDate": "2025-03-30"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 41.83445,
+        "RateDate": "2025-09-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 48.152291,
+        "RateDate": "2025-02-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 80.166404,
+        "RateDate": "2025-11-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 79.628429,
+        "RateDate": "2025-11-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 19.755563,
+        "RateDate": "2025-03-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 41.836288,
+        "RateDate": "2025-02-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 3.128833,
+        "RateDate": "2025-11-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 54.534517,
+        "RateDate": "2025-12-29"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 93.432641,
+        "RateDate": "2025-01-13"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 18.129464,
+        "RateDate": "2025-11-21"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 28.559177,
+        "RateDate": "2025-12-01"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 69.136543,
+        "RateDate": "2025-10-02"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 62.799852,
+        "RateDate": "2025-07-13"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 88.855222,
+        "RateDate": "2025-05-21"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 60.827531,
+        "RateDate": "2025-11-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 10.983029,
+        "RateDate": "2025-10-24"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 10.618744,
+        "RateDate": "2025-11-02"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 85.040153,
+        "RateDate": "2025-05-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "XYZ",
+        "ExchangeRate": 47.206157,
+        "RateDate": "2025-02-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 37.43062,
+        "RateDate": "2025-07-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 39.598915,
+        "RateDate": "2025-09-09"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 20.372969,
+        "RateDate": "2025-09-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 84.577928,
+        "RateDate": "2025-08-03"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 76.907886,
+        "RateDate": "2025-11-21"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 1.458258,
+        "RateDate": "2025-04-03"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 11.576075,
+        "RateDate": "2025-04-02"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": null,
+        "ExchangeRate": 46.229589,
+        "RateDate": "2025-06-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 15.467691,
+        "RateDate": "2025-11-11"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 18.723877,
+        "RateDate": "2025-05-11"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 49.45052,
+        "RateDate": "2025-01-16"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 82.419617,
+        "RateDate": "2025-03-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 3.287525,
+        "RateDate": "2025-02-28"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 8.385341,
+        "RateDate": "2025-03-12"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 25.787305,
+        "RateDate": "2025-12-21"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 90.580175,
+        "RateDate": "2025-09-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 44.635634,
+        "RateDate": "2025-06-28"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 48.946044,
+        "RateDate": "2025-09-11"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 24.133803,
+        "RateDate": "2025-07-24"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 91.396838,
+        "RateDate": "2025-04-12"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 16.154219,
+        "RateDate": "2025-02-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 41.463073,
+        "RateDate": "2025-04-16"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 56.853165,
+        "RateDate": "2025-08-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 59.365086,
+        "RateDate": "2025-05-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 41.070076,
+        "RateDate": "2025-11-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 35.839266,
+        "RateDate": "2025-10-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 42.96862,
+        "RateDate": "2025-11-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 55.959143,
+        "RateDate": "2025-01-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 38.13998,
+        "RateDate": "2025-05-31"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 76.954324,
+        "RateDate": "2025-02-28"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 34.306857,
+        "RateDate": "2025-08-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 62.582211,
+        "RateDate": "2025-02-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 74.164125,
+        "RateDate": "2025-07-10"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 30.606674,
+        "RateDate": "2025-03-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 20.701494,
+        "RateDate": "2025-01-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 85.431306,
+        "RateDate": "2025-10-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 36.938338,
+        "RateDate": "2025-10-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 50.326293,
+        "RateDate": "2025-11-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 68.187101,
+        "RateDate": "2025-02-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 54.738124,
+        "RateDate": "2025-12-10"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 64.961467,
+        "RateDate": "2025-11-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 77.365778,
+        "RateDate": "2025-08-11"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 5.192846,
+        "RateDate": "2025-04-12"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 4.921829,
+        "RateDate": "2025-09-10"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 11.769978,
+        "RateDate": "2025-05-21"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 57.335199,
+        "RateDate": "2025-08-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 22.841871,
+        "RateDate": "2025-10-30"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 2.18553,
+        "RateDate": "2025-01-11"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 86.650277,
+        "RateDate": "2025-10-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 80.035251,
+        "RateDate": "2025-05-26"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 85.15589,
+        "RateDate": "2025-07-26"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 32.383343,
+        "RateDate": "2025-09-28"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 44.904922,
+        "RateDate": "2025-01-09"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 26.45665,
+        "RateDate": "2025-08-01"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 8.038001,
+        "RateDate": "2025-06-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 58.364301,
+        "RateDate": "2025-06-10"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 66.315181,
+        "RateDate": "2025-07-21"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 80.699534,
+        "RateDate": "2025-08-21"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 89.113005,
+        "RateDate": "2025-03-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 21.669357,
+        "RateDate": "2025-02-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 10.435323,
+        "RateDate": "2025-01-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 21.889249,
+        "RateDate": "2025-06-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 68.928198,
+        "RateDate": "2025-02-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 88.773429,
+        "RateDate": "2025-07-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 83.973678,
+        "RateDate": "2025-01-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 5.03632,
+        "RateDate": "2025-01-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 25.422214,
+        "RateDate": "2025-06-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 26.006689,
+        "RateDate": "2025-12-19"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 55.636328,
+        "RateDate": "2025-03-29"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 30.676938,
+        "RateDate": "2025-03-03"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 60.687395,
+        "RateDate": "2025-03-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 49.80667,
+        "RateDate": "2025-12-09"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 62.989918,
+        "RateDate": "2025-05-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 73.514856,
+        "RateDate": "2025-05-24"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 9.175041,
+        "RateDate": "2025-09-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 33.859416,
+        "RateDate": "2025-06-01"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 66.174199,
+        "RateDate": "2025-05-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 6.195225,
+        "RateDate": "2025-02-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 44.740212,
+        "RateDate": "2025-01-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 46.582507,
+        "RateDate": "2025-07-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 77.422567,
+        "RateDate": "2025-06-24"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 72.366112,
+        "RateDate": "2025-09-28"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 62.424842,
+        "RateDate": "2025-06-09"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 86.884838,
+        "RateDate": "2025-09-16"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 36.936908,
+        "RateDate": "2025-04-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 74.21199,
+        "RateDate": "2025-08-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 26.755732,
+        "RateDate": "2025-04-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 90.416239,
+        "RateDate": "2025-03-26"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 14.41888,
+        "RateDate": "2025-10-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 23.233153,
+        "RateDate": "2025-02-24"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 25.708505,
+        "RateDate": "2025-08-24"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 33.75992,
+        "RateDate": "2025-09-01"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 33.993336,
+        "RateDate": "2025-03-02"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 38.009696,
+        "RateDate": "2025-04-19"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 5.523343,
+        "RateDate": "2025-08-09"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 9.7433,
+        "RateDate": "2025-05-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 69.674152,
+        "RateDate": "2025-11-29"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 28.283557,
+        "RateDate": "2025-08-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 56.637646,
+        "RateDate": "2025-07-26"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 49.509444,
+        "RateDate": "2025-09-29"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 61.579589,
+        "RateDate": "2025-02-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 11.385257,
+        "RateDate": "2025-02-26"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 23.063494,
+        "RateDate": "2025-01-19"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 26.530921,
+        "RateDate": "2025-09-30"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 37.535314,
+        "RateDate": "2025-11-14"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 69.855853,
+        "RateDate": "2025-02-21"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 47.293722,
+        "RateDate": "2025-12-21"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 33.351329,
+        "RateDate": "2025-03-29"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 69.851875,
+        "RateDate": "2025-05-28"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 48.056194,
+        "RateDate": "2025-02-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 70.344076,
+        "RateDate": "2025-12-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 16.586978,
+        "RateDate": "2025-12-19"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 16.247995,
+        "RateDate": "2025-12-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 13.90328,
+        "RateDate": "2025-06-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 40.938681,
+        "RateDate": "2025-01-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 92.578046,
+        "RateDate": "2025-01-11"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 64.684678,
+        "RateDate": "2025-02-09"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 92.121675,
+        "RateDate": "2025-01-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 46.645044,
+        "RateDate": "2025-10-26"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 10.836977,
+        "RateDate": "2025-05-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 79.441428,
+        "RateDate": "2025-01-09"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 71.846789,
+        "RateDate": "2025-09-26"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 29.284915,
+        "RateDate": "2025-02-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 46.867545,
+        "RateDate": "2025-06-21"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 63.192105,
+        "RateDate": "2025-06-29"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 43.851947,
+        "RateDate": "2025-05-10"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 67.609851,
+        "RateDate": "2025-06-30"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 11.155921,
+        "RateDate": "2025-09-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 14.476587,
+        "RateDate": "2025-12-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 62.810173,
+        "RateDate": "2025-07-30"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 47.545146,
+        "RateDate": "2025-03-14"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 34.465183,
+        "RateDate": "2025-05-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 87.501166,
+        "RateDate": "2025-02-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 91.735314,
+        "RateDate": "2025-07-13"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 93.802842,
+        "RateDate": "2025-11-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 25.571732,
+        "RateDate": "2025-09-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 84.415518,
+        "RateDate": "2025-12-14"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 89.827684,
+        "RateDate": "2025-07-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 18.509117,
+        "RateDate": "2025-05-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 79.329213,
+        "RateDate": "2025-10-24"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 75.658959,
+        "RateDate": "2025-03-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 27.754606,
+        "RateDate": "2025-10-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 88.123521,
+        "RateDate": "2025-01-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 64.84723,
+        "RateDate": "2025-03-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 59.44864,
+        "RateDate": "2025-09-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 29.194509,
+        "RateDate": "2025-12-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 76.079689,
+        "RateDate": "2025-05-28"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 4.370067,
+        "RateDate": "2025-01-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 5.526765,
+        "RateDate": "2025-05-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 41.165507,
+        "RateDate": "2025-06-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 5.215743,
+        "RateDate": "2025-12-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 83.539238,
+        "RateDate": "2025-03-12"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 90.623257,
+        "RateDate": "2025-09-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 94.613897,
+        "RateDate": "2025-05-19"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 55.803747,
+        "RateDate": "2025-04-11"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 21.182059,
+        "RateDate": "2025-02-11"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 24.004844,
+        "RateDate": "2025-08-31"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 40.432231,
+        "RateDate": "2025-12-14"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 87.458345,
+        "RateDate": "2025-02-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 16.877036,
+        "RateDate": "2025-11-02"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 76.513934,
+        "RateDate": "2025-08-12"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 24.126932,
+        "RateDate": "2025-03-13"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 28.950384,
+        "RateDate": "2025-08-02"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 54.049851,
+        "RateDate": "2025-02-13"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 52.080999,
+        "RateDate": "2025-11-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 9.575997,
+        "RateDate": "2025-07-12"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 66.095605,
+        "RateDate": "2025-09-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 44.761804,
+        "RateDate": "2025-09-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 40.237785,
+        "RateDate": "2025-08-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 3.115093,
+        "RateDate": "2025-07-30"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 90.982971,
+        "RateDate": "2025-10-14"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 71.928435,
+        "RateDate": "2025-08-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 74.836731,
+        "RateDate": "2025-11-11"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 12.527474,
+        "RateDate": "2025-10-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": -5,
+        "RateDate": "2025-10-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 38.578031,
+        "RateDate": "2025-07-21"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 76.806957,
+        "RateDate": "2025-01-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 79.804215,
+        "RateDate": "2025-09-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 26.031523,
+        "RateDate": "2025-02-13"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 32.014186,
+        "RateDate": "2025-11-29"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 53.934401,
+        "RateDate": "2025-02-19"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 82.177685,
+        "RateDate": "2025-12-20"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 66.798617,
+        "RateDate": "2025-03-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 53.613654,
+        "RateDate": "2025-09-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 21.624869,
+        "RateDate": "2025-09-11"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 28.934314,
+        "RateDate": "2025-12-12"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 76.630792,
+        "RateDate": "2025-06-09"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 11.339988,
+        "RateDate": "2025-11-16"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 57.558218,
+        "RateDate": "2025-01-01"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 23.860975,
+        "RateDate": "2025-03-03"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 2.830028,
+        "RateDate": "2025-02-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 37.422463,
+        "RateDate": "2025-09-16"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 38.730668,
+        "RateDate": "2025-03-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 80.042616,
+        "RateDate": "2025-04-05"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 78.14937,
+        "RateDate": "2025-10-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 81.705162,
+        "RateDate": "2025-12-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 41.357425,
+        "RateDate": "2025-11-12"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 17.964342,
+        "RateDate": "2025-11-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 16.638284,
+        "RateDate": "2025-12-03"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "XYZ",
+        "ExchangeRate": 45.496969,
+        "RateDate": "2025-12-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 63.582108,
+        "RateDate": "2025-05-29"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 35.213574,
+        "RateDate": "2025-10-29"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 36.960065,
+        "RateDate": "2025-05-21"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 39.896716,
+        "RateDate": "2025-02-24"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 3.143227,
+        "RateDate": "2025-08-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 53.817758,
+        "RateDate": "2025-08-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 3.720895,
+        "RateDate": "2025-01-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 4.528705,
+        "RateDate": "2025-99-99"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 44.717222,
+        "RateDate": "2025-07-01"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 1.361846,
+        "RateDate": "2025-08-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 47.810327,
+        "RateDate": "2025-03-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 33.464821,
+        "RateDate": "2025-09-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 48.982767,
+        "RateDate": "2025-12-28"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 33.751432,
+        "RateDate": "2025-03-31"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 43.921025,
+        "RateDate": "2025-10-16"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 74.678809,
+        "RateDate": "2025-03-13"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 87.768571,
+        "RateDate": "2025-12-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 36.081398,
+        "RateDate": "2025-02-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 54.935681,
+        "RateDate": "2025-08-30"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 12.730376,
+        "RateDate": "2025-09-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 55.73461,
+        "RateDate": "2025-06-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 4.745803,
+        "RateDate": "2025-07-26"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 9.623072,
+        "RateDate": "2025-03-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 88.785104,
+        "RateDate": "2025-02-24"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 72.311427,
+        "RateDate": "2025-09-01"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 85.530562,
+        "RateDate": "2025-05-02"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 71.924411,
+        "RateDate": "2025-03-31"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 6.352068,
+        "RateDate": "2025-08-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 4.036027,
+        "RateDate": "2025-05-09"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 72.636759,
+        "RateDate": "2025-02-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 87.775555,
+        "RateDate": "2025-11-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 66.529581,
+        "RateDate": "2025-06-14"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 93.948297,
+        "RateDate": "2025-07-13"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 18.995346,
+        "RateDate": "2025-10-21"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 64.651233,
+        "RateDate": "2025-09-09"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 70.633544,
+        "RateDate": "2025-04-26"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 8.628729,
+        "RateDate": "2025-08-11"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 19.734493,
+        "RateDate": "2025-01-13"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 34.478515,
+        "RateDate": "2025-03-13"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 32.697219,
+        "RateDate": "2025-07-28"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 18.467937,
+        "RateDate": "2025-12-16"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 47.830352,
+        "RateDate": "2025-04-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 76.250812,
+        "RateDate": "2025-07-02"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 59.606981,
+        "RateDate": "2025-08-13"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 12.51968,
+        "RateDate": "2025-02-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 10.036279,
+        "RateDate": "2025-09-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 5.364766,
+        "RateDate": "2025-09-13"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 2.630264,
+        "RateDate": "2025-10-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 37.395296,
+        "RateDate": "2025-05-29"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 82.94582,
+        "RateDate": "2025-07-03"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 7.566438,
+        "RateDate": "2025-03-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 81.126948,
+        "RateDate": "2025-10-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 38.226258,
+        "RateDate": "2025-11-09"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 55.572002,
+        "RateDate": "2025-01-30"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 3.549962,
+        "RateDate": "2025-05-15"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 19.448314,
+        "RateDate": "2025-08-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 19.800048,
+        "RateDate": "2025-01-31"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 22.765826,
+        "RateDate": "2025-06-18"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": null,
+        "ExchangeRate": 33.182407,
+        "RateDate": "2025-02-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 57.024951,
+        "RateDate": "2025-02-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 84.370511,
+        "RateDate": "2025-11-10"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 26.063044,
+        "RateDate": "2025-09-03"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 3.864208,
+        "RateDate": "2025-01-22"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 61.956844,
+        "RateDate": "2025-09-17"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CNY",
+        "ExchangeRate": 29.173034,
+        "RateDate": "2025-08-09"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 88.502798,
+        "RateDate": "2025-04-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 50.980564,
+        "RateDate": "2025-01-14"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 52.710868,
+        "RateDate": "2025-07-14"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 72.856903,
+        "RateDate": "2025-01-27"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 41.108412,
+        "RateDate": "2025-12-23"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "INR",
+        "ExchangeRate": 11.422612,
+        "RateDate": "2025-08-07"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 33.74407,
+        "RateDate": "2025-03-02"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 87.257482,
+        "RateDate": "2025-06-25"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 9.193132,
+        "RateDate": "2025-05-02"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 39.534688,
+        "RateDate": "2025-01-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 94.143711,
+        "RateDate": "2025-10-02"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 77.292769,
+        "RateDate": "2025-01-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "EUR",
+        "ExchangeRate": 12.474652,
+        "RateDate": "2025-02-09"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CAD",
+        "ExchangeRate": 4.631486,
+        "RateDate": "2025-04-03"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 94.819392,
+        "RateDate": "2025-06-29"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "CHF",
+        "ExchangeRate": 45.737279,
+        "RateDate": "2025-03-08"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "GBP",
+        "ExchangeRate": 7.717709,
+        "RateDate": "2025-03-04"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 47.270814,
+        "RateDate": "2025-10-06"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "JPY",
+        "ExchangeRate": 42.414704,
+        "RateDate": "2025-07-02"
+    },
+    {
+        "BaseCurrency": "USD",
+        "TargetCurrency": "AUD",
+        "ExchangeRate": 74.229694,
+        "RateDate": "2025-06-04"
+    }
+]

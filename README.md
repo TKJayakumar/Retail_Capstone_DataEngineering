@@ -230,7 +230,7 @@ This project demonstrates practical implementation of:
 
 ## Author
 
-**Name:** *Your Name*
+**Name:** Jayakumar T
 
 **Project:** Enterprise Retail Analytics Platform on Azure
 
